@@ -4104,10 +4104,10 @@
     "last_match_date": null
   },
   "葡萄牙体育": {
-    "elo": 1652.6,
-    "attack": 0.9943,
-    "defense": 0.8772,
-    "form": -0.7045,
+    "elo": 1632.5,
+    "attack": 0.9677,
+    "defense": 0.8972,
+    "form": -0.7932,
     "injury": 0.0,
     "rest_days": 0,
     "last_match_date": "2026-10-22"
@@ -10044,10 +10044,10 @@
     "last_match_date": null
   },
   "林茨竞技": {
-    "elo": 1625.4,
-    "attack": 1.0146,
-    "defense": 0.8868,
-    "form": 0.6765,
+    "elo": 1645.5,
+    "attack": 1.0212,
+    "defense": 0.8707,
+    "form": 0.7735,
     "injury": 0.0,
     "rest_days": 0,
     "last_match_date": "2026-10-22"
