@@ -2529,13 +2529,13 @@
     "last_match_date": null
   },
   "皇家社会": {
-    "elo": 1621.6,
-    "attack": 0.8939,
-    "defense": 0.8379,
-    "form": 0.4534,
+    "elo": 1687.0,
+    "attack": 1.0179,
+    "defense": 0.7562,
+    "form": 0.6174,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-10-18"
+    "rest_days": 4,
+    "last_match_date": "2026-10-22"
   },
   "莱万特": {
     "elo": 1611.3,
@@ -4104,10 +4104,10 @@
     "last_match_date": null
   },
   "葡萄牙体育": {
-    "elo": 1614.1,
-    "attack": 0.9437,
-    "defense": 0.9153,
-    "form": -0.8552,
+    "elo": 1597.4,
+    "attack": 0.9221,
+    "defense": 0.9316,
+    "form": -0.8986,
     "injury": 0.0,
     "rest_days": 0,
     "last_match_date": "2026-10-22"
@@ -10044,10 +10044,10 @@
     "last_match_date": null
   },
   "林茨竞技": {
-    "elo": 1663.9,
-    "attack": 1.0272,
-    "defense": 0.8562,
-    "form": 0.8415,
+    "elo": 1680.6,
+    "attack": 1.0326,
+    "defense": 0.8431,
+    "form": 0.889,
     "injury": 0.0,
     "rest_days": 0,
     "last_match_date": "2026-10-22"
@@ -11871,13 +11871,13 @@
     "last_match_date": "2026-09-20"
   },
   "利勒斯特罗姆": {
-    "elo": 1492.6,
-    "attack": 0.8849,
-    "defense": 0.9802,
-    "form": -0.21,
+    "elo": 1427.2,
+    "attack": 0.7986,
+    "defense": 1.0957,
+    "form": -0.447,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-11"
+    "rest_days": 11,
+    "last_match_date": "2026-10-22"
   },
   "菲律宾女足": {
     "elo": 1465.0,

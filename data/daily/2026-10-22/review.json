@@ -1,36 +1,36 @@
 {
   "date": "2026-10-22",
-  "n_matches": 4,
-  "hit_rate": 0.25,
-  "hits": 1,
+  "n_matches": 5,
+  "hit_rate": 0.4,
+  "hits": 2,
   "source_brier": {
-    "model": 0.6679,
-    "market": 1.1077,
-    "djyy": 0.7198,
-    "final": 0.8422
+    "model": 0.5854,
+    "market": 0.8581,
+    "djyy": 0.666,
+    "final": 0.6971
   },
   "by_league": {
     "欧罗巴": {
-      "n": 4,
-      "hit_rate": 0.25,
-      "wilson_lower": 0.0456,
-      "avg_brier": 0.8422
+      "n": 5,
+      "hit_rate": 0.4,
+      "wilson_lower": 0.1176,
+      "avg_brier": 0.6971
     }
   },
   "by_confidence_tier": {
     "high": {
-      "n": 4,
-      "hit_rate": 0.25,
-      "wilson_lower": 0.0456,
-      "avg_brier": 0.8422
+      "n": 5,
+      "hit_rate": 0.4,
+      "wilson_lower": 0.1176,
+      "avg_brier": 0.6971
     }
   },
   "by_odds_band": {
     "L1 大热(<1.5)": {
-      "n": 3,
-      "hit_rate": 0.3333,
-      "wilson_lower": 0.0615,
-      "avg_brier": 0.7873
+      "n": 4,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.15,
+      "avg_brier": 0.6196
     },
     "L2 热(1.5-1.8)": {
       "n": 1,
@@ -62,15 +62,15 @@
     }
   },
   "market_signal_stats": {
-    "n": 4,
-    "hits": 1
+    "n": 5,
+    "hits": 2
   },
   "layered": {
-    "log_loss_final": 1.3124,
-    "rps_final": 0.2487,
-    "rps_market": 0.325,
+    "log_loss_final": 1.1148,
+    "rps_final": 0.2079,
+    "rps_market": 0.2542,
     "goal_framework": {
-      "n": 4,
+      "n": 5,
       "hits": 2
     },
     "prob_bands": {
@@ -79,8 +79,8 @@
         "hit_rate": 0.0
       },
       "60%+": {
-        "n": 3,
-        "hit_rate": 0.3333
+        "n": 4,
+        "hit_rate": 0.5
       }
     },
     "freshness_groups": {
@@ -89,13 +89,25 @@
         "hit_rate": 0.0
       },
       "watch": {
-        "n": 2,
-        "hit_rate": 0.5
+        "n": 3,
+        "hit_rate": 0.6667
       }
     }
   },
-  "biases": [],
+  "biases": [
+    {
+      "dimension": "outcome",
+      "key": "all",
+      "outcome": "draw",
+      "predicted_avg": 0.1944,
+      "actual_rate": 0.4,
+      "gap": -0.2056,
+      "n": 5,
+      "severity": "warn",
+      "suggested_action": "reduce draw_bias"
+    }
+  ],
   "total_pnl": 0.0,
-  "generated_at": "2026-10-22T20:15:26.716505",
-  "sha256": "cf836392f9d2a5b1ebdaaa104e42da80"
+  "generated_at": "2026-10-22T20:48:49.373542",
+  "sha256": "26d64e86ea03157633fed8436562e7b4"
 }

@@ -1,16 +1,16 @@
 {
   "generated_at": "2026-10-22",
-  "total_matches": 1162,
+  "total_matches": 1163,
   "date_range": [
     "2026-07-19",
     "2026-10-22"
   ],
   "overall": {
-    "hit_rate": 0.5465,
-    "brier_final": 0.5772,
-    "brier_model": 0.6153,
-    "brier_market": 0.5687,
-    "brier_djyy": 0.6197
+    "hit_rate": 0.5469,
+    "brier_final": 0.5769,
+    "brier_model": 0.615,
+    "brier_market": 0.5683,
+    "brier_djyy": 0.6192
   },
   "daily": [
     {
@@ -1107,21 +1107,21 @@
     },
     {
       "date": "2026-10-22",
-      "n": 4,
-      "hits": 1,
-      "hit_rate": 0.25,
-      "cum_hit_rate": 0.5465,
-      "brier_final": 0.8422,
-      "brier_model": 0.6679,
-      "brier_market": 1.1077,
-      "brier_djyy": 0.7198,
+      "n": 5,
+      "hits": 2,
+      "hit_rate": 0.4,
+      "cum_hit_rate": 0.5469,
+      "brier_final": 0.6971,
+      "brier_model": 0.5854,
+      "brier_market": 0.8581,
+      "brier_djyy": 0.666,
       "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 101,
-    "hit_rate": 0.604,
-    "brier_final": 0.6112,
+    "n": 102,
+    "hit_rate": 0.6078,
+    "brier_final": 0.5905,
     "pnl": 0.0
   },
   "prev7": {
@@ -1130,7 +1130,7 @@
     "brier_final": 0.5384,
     "pnl": 0.0
   },
-  "verdict": "持平（±3pt 内）",
+  "verdict": "命中率提升 +3pt",
   "by_league": [
     {
       "layer": "西甲",
@@ -1158,9 +1158,9 @@
     },
     {
       "layer": "欧罗巴",
-      "n": 58,
-      "hit_rate": 0.5,
-      "brier_final": 0.6028
+      "n": 59,
+      "hit_rate": 0.5085,
+      "brier_final": 0.5946
     },
     {
       "layer": "德甲",
@@ -1424,9 +1424,9 @@
     },
     {
       "layer": "L1 大热(<1.5)",
-      "n": 56,
-      "hit_rate": 0.75,
-      "brier_final": 0.4026
+      "n": 57,
+      "hit_rate": 0.7544,
+      "brier_final": 0.3976
     },
     {
       "layer": "3.0+",
@@ -1462,9 +1462,9 @@
     },
     {
       "layer": "high",
-      "n": 406,
-      "hit_rate": 0.6724,
-      "brier_final": 0.479
+      "n": 407,
+      "hit_rate": 0.6732,
+      "brier_final": 0.4781
     },
     {
       "layer": "low",

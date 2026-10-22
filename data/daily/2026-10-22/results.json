@@ -664,5 +664,14 @@
     "away_team": "勒沃库森",
     "half_home_score": 0,
     "half_away_score": 2
+  },
+  {
+    "match_id": "2026-10-22_周四010",
+    "home_score": 0,
+    "away_score": 6,
+    "home_team": "利勒斯特罗姆",
+    "away_team": "皇家社会",
+    "half_home_score": 0,
+    "half_away_score": 3
   }
 ]
