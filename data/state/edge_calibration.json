@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T18:14:52",
-  "n_settled": 1054,
+  "generated_at": "2026-10-22T18:56:50",
+  "n_settled": 1058,
   "n_positive_edge": 116,
   "edge_buckets": [
     {
@@ -55,19 +55,19 @@
     },
     {
       "bucket": "[0.50,0.60)",
-      "n": 260,
-      "actual_hit_rate": 0.5038,
-      "required_hit_rate": 0.5931,
-      "ev_gap": -0.0893,
-      "roi_proxy": -0.1505
+      "n": 261,
+      "actual_hit_rate": 0.5019,
+      "required_hit_rate": 0.5933,
+      "ev_gap": -0.0914,
+      "roi_proxy": -0.154
     },
     {
       "bucket": "[0.60,0.70)",
-      "n": 151,
-      "actual_hit_rate": 0.6821,
-      "required_hit_rate": 0.7268,
-      "ev_gap": -0.0447,
-      "roi_proxy": -0.0615
+      "n": 154,
+      "actual_hit_rate": 0.6753,
+      "required_hit_rate": 0.7276,
+      "ev_gap": -0.0522,
+      "roi_proxy": -0.0718
     },
     {
       "bucket": "[0.70,1.01)",

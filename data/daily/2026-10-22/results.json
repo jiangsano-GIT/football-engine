@@ -502,5 +502,167 @@
     "away_team": "利雅得青年人",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19874016",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "特拉布宗体育",
+    "away_team": "哈茨",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19874018",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "帕福斯",
+    "away_team": "里加",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19874020",
+    "home_score": 1,
+    "away_score": 3,
+    "home_team": "国际艾斯卡迪斯",
+    "away_team": "克拉约瓦大学",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19874022",
+    "home_score": 2,
+    "away_score": 5,
+    "home_team": "赫塔菲",
+    "away_team": "卢加诺",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19874024",
+    "home_score": 1,
+    "away_score": 4,
+    "home_team": "考诺萨基列斯",
+    "away_team": "布兰",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19874025",
+    "home_score": 0,
+    "away_score": 0,
+    "home_team": "亚布洛内茨",
+    "away_team": "布莱顿",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19874027",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "贝尔格莱德红星",
+    "away_team": "哥本哈根",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19874029",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "北西兰",
+    "away_team": "索非亚中央陆军",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19874031",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "伊比利亚1999",
+    "away_team": "梅尔比",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19873807",
+    "home_score": 2,
+    "away_score": 4,
+    "home_team": "萨格勒布迪纳摩",
+    "away_team": "奈梅亨",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19873810",
+    "home_score": 4,
+    "away_score": 0,
+    "home_team": "圣吉罗斯",
+    "away_team": "贝尔谢巴夏普尔",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_周四002",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "波兹南莱赫",
+    "away_team": "桑德兰",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_周四001",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "格拉茨风暴",
+    "away_team": "马赛",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_周四004",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "尤文图斯",
+    "away_team": "雷恩",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19873823",
+    "home_score": 0,
+    "away_score": 4,
+    "home_team": "阿拉特亚美尼亚",
+    "away_team": "阿尔克马尔",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19873826",
+    "home_score": 4,
+    "away_score": 1,
+    "home_team": "费伦茨瓦罗斯",
+    "away_team": "杜连斯联盟体育会",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_19873829",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "OFI克里特",
+    "away_team": "勒沃库森",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-22_周四005",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "克里特",
+    "away_team": "勒沃库森",
+    "half_home_score": 0,
+    "half_away_score": 2
   }
 ]
