@@ -1368,13 +1368,13 @@
     "last_match_date": null
   },
   "前进之鹰": {
-    "elo": 1409.9,
-    "attack": 0.9787,
-    "defense": 1.0888,
-    "form": -0.3716,
+    "elo": 1424.2,
+    "attack": 0.9888,
+    "defense": 1.053,
+    "form": 0.0399,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-18"
+    "rest_days": 5,
+    "last_match_date": "2026-10-23"
   },
   "格罗宁根": {
     "elo": 1468.4,
@@ -1404,13 +1404,13 @@
     "last_match_date": "2026-08-30"
   },
   "赫拉克勒斯": {
-    "elo": 1307.9,
-    "attack": 0.7796,
-    "defense": 1.3079,
-    "form": 0.3347,
+    "elo": 1310.7,
+    "attack": 0.7388,
+    "defense": 1.2156,
+    "form": 0.2343,
     "injury": 0.0,
-    "rest_days": 13,
-    "last_match_date": "2026-10-09"
+    "rest_days": 14,
+    "last_match_date": "2026-10-23"
   },
   "阿尔克马尔": {
     "elo": 1702.5,
@@ -1422,13 +1422,13 @@
     "last_match_date": "2026-10-22"
   },
   "布雷达": {
-    "elo": 1303.6,
-    "attack": 0.7539,
-    "defense": 1.1832,
-    "form": 0.1586,
+    "elo": 1300.8,
+    "attack": 0.7156,
+    "defense": 1.103,
+    "form": 0.111,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-08-28"
+    "last_match_date": "2026-10-23"
   },
   "SBV精英": {
     "elo": 1454.8,
@@ -5292,13 +5292,13 @@
     "last_match_date": null
   },
   "特尔斯达": {
-    "elo": 1437.7,
-    "attack": 0.801,
-    "defense": 0.9771,
-    "form": -0.5117,
+    "elo": 1423.4,
+    "attack": 0.7933,
+    "defense": 0.9874,
+    "form": -0.6582,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-17"
+    "rest_days": 6,
+    "last_match_date": "2026-10-23"
   },
   "科索沃": {
     "elo": 1544.8,

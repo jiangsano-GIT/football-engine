@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:43:10",
+  "generated_at": "2026-10-23T20:08:39",
   "total_matches": 1358,
   "no_kickoff_time": 0,
   "snapshots": {
@@ -39,22 +39,22 @@
   "lead_to_kickoff_hours": {
     "median_last": 10.27,
     "p10_last": 2.58,
-    "p90_last": 18.0,
+    "p90_last": 17.86,
     "median_first": 21.8
   },
   "closing_coverage": {
     "window_h": 2.0,
     "n": 42,
     "ratio": 0.0331,
-    "assessable": 1267,
-    "pending_kickoff": 91,
+    "assessable": 1269,
+    "pending_kickoff": 89,
     "post_kickoff_last": 51,
     "stopped_before_kickoff": 1307
   },
   "near_close_coverage": {
     "window_h": 6.0,
     "n": 281,
-    "ratio": 0.2218
+    "ratio": 0.2214
   },
   "last_collection_day_offset": {
     "0": 477,
@@ -109,7 +109,7 @@
     },
     "12": {
       "n": 1,
-      "median_lead": 40.28
+      "median_lead": 39.86
     },
     "13": {
       "n": 12,
