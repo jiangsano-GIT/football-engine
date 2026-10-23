@@ -1,46 +1,46 @@
 {
-  "total_matches": 1169,
+  "total_matches": 1171,
   "date_range": [
     "2026-07-19",
     "2026-10-22"
   ],
   "metrics": {
-    "brier": 0.5767,
-    "weighted_brier": 0.5732,
-    "rps": 0.1979,
-    "weighted_rps": 0.1969,
-    "log_loss": 0.9706,
-    "hit_rate": 0.55,
-    "ece": 0.087
+    "brier": 0.5779,
+    "weighted_brier": 0.5746,
+    "rps": 0.1984,
+    "weighted_rps": 0.1974,
+    "log_loss": 0.9721,
+    "hit_rate": 0.5491,
+    "ece": 0.0852
   },
   "draw_analysis": {
-    "actual_draws": 281,
-    "actual_draw_rate": 0.2404,
+    "actual_draws": 282,
+    "actual_draw_rate": 0.2408,
     "predicted_draws": 39,
-    "predicted_draw_rate": 0.0334,
+    "predicted_draw_rate": 0.0333,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.254,
-    "avg_market_draw": 0.2396,
+    "avg_draw_prob": 0.2538,
+    "avg_market_draw": 0.2395,
     "market_high_draw_n": 217,
     "market_high_draw_actual": 75,
     "market_high_draw_rate": 0.3456
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5475,
-      "n": 1169
+      "hit_rate": 0.5465,
+      "n": 1171
     },
     "market": {
-      "hit_rate": 0.5592,
-      "n": 1048
+      "hit_rate": 0.5581,
+      "n": 1050
     },
     "hybrid_v2": {
-      "hit_rate": 0.5076,
-      "n": 1048
+      "hit_rate": 0.5067,
+      "n": 1050
     },
     "market_d28": {
-      "hit_rate": 0.5258,
-      "n": 1048
+      "hit_rate": 0.5248,
+      "n": 1050
     }
   },
   "by_league": {
@@ -63,10 +63,10 @@
       "rps": 0.2057
     },
     "欧罗巴": {
-      "n": 63,
-      "hit_rate": 0.5079,
-      "brier": 0.5957,
-      "rps": 0.2225
+      "n": 64,
+      "hit_rate": 0.5,
+      "brier": 0.6055,
+      "rps": 0.2283
     },
     "英超": {
       "n": 63,
@@ -159,10 +159,10 @@
       "rps": 0.2017
     },
     "解放者杯": {
-      "n": 19,
-      "hit_rate": 0.3158,
-      "brier": 0.6843,
-      "rps": 0.2014
+      "n": 20,
+      "hit_rate": 0.3,
+      "brier": 0.716,
+      "rps": 0.2069
     },
     "日乙": {
       "n": 18,
