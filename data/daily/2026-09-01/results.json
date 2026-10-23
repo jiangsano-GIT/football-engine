@@ -82,23 +82,12 @@
   },
   {
     "match_id": "2026-09-01_周二010",
-    "home_score": 0,
-    "away_score": 1,
+    "home_score": 3,
+    "away_score": 2,
     "home_team": "都灵",
     "away_team": "蒙扎",
-    "half_home_score": 0,
-    "half_away_score": 1
-  },
-  {
-    "match_id": "周二001",
-    "home_team": "利雅新月",
-    "away_team": "吉达国民",
-    "home_score": 3,
-    "away_score": 0,
-    "competition": "沙特联",
-    "match_date": "2026-09-01",
-    "match_no": "",
-    "status": "完赛"
+    "half_home_score": 1,
+    "half_away_score": 0
   },
   {
     "match_id": "周二003",

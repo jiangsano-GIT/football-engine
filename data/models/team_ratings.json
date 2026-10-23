@@ -792,13 +792,13 @@
     "last_match_date": "2026-10-17"
   },
   "尼斯": {
-    "elo": 1556.8,
-    "attack": 0.6671,
-    "defense": 0.8565,
-    "form": -0.0306,
+    "elo": 1573.5,
+    "attack": 0.6724,
+    "defense": 0.8082,
+    "form": 0.2786,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-18"
+    "rest_days": 5,
+    "last_match_date": "2026-10-23"
   },
   "拉普体操": {
     "elo": 1561.5,
@@ -1719,13 +1719,13 @@
     "last_match_date": "2026-10-23"
   },
   "斯图加特": {
-    "elo": 1780.2,
-    "attack": 0.9065,
-    "defense": 0.6875,
-    "form": -0.0468,
+    "elo": 1754.3,
+    "attack": 0.8885,
+    "defense": 0.726,
+    "form": -0.3328,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": "2026-10-20"
+    "last_match_date": "2026-10-23"
   },
   "斯托克城": {
     "elo": 1459.6,
@@ -2403,13 +2403,13 @@
     "last_match_date": null
   },
   "门兴格拉德巴赫": {
-    "elo": 1592.7,
-    "attack": 0.9341,
-    "defense": 1.0818,
-    "form": -0.1683,
+    "elo": 1618.6,
+    "attack": 0.9486,
+    "defense": 1.0467,
+    "form": 0.1822,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-18"
+    "rest_days": 5,
+    "last_match_date": "2026-10-23"
   },
   "亚特兰大": {
     "elo": 1665.0,
@@ -2673,13 +2673,13 @@
     "last_match_date": null
   },
   "都灵": {
-    "elo": 1591.2,
-    "attack": 0.6897,
-    "defense": 0.7372,
-    "form": 0.3617,
+    "elo": 1598.0,
+    "attack": 0.728,
+    "defense": 0.7357,
+    "form": 0.5532,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-19"
+    "rest_days": 4,
+    "last_match_date": "2026-10-23"
   },
   "拉齐奥": {
     "elo": 1776.3,
@@ -3852,13 +3852,13 @@
     "last_match_date": "2026-10-21"
   },
   "布雷斯特": {
-    "elo": 1507.0,
-    "attack": 0.8099,
-    "defense": 1.0938,
-    "form": -0.3396,
+    "elo": 1490.3,
+    "attack": 0.7661,
+    "defense": 1.0575,
+    "form": -0.5377,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-09-13"
+    "rest_days": 14,
+    "last_match_date": "2026-10-23"
   },
   "巴黎FC": {
     "elo": 1697.8,
@@ -6561,13 +6561,13 @@
     "last_match_date": "2026-10-12"
   },
   "蒙扎": {
-    "elo": 1427.2,
-    "attack": 0.6232,
-    "defense": 0.9784,
-    "form": 0.0878,
+    "elo": 1420.4,
+    "attack": 0.6328,
+    "defense": 0.9886,
+    "form": -0.2385,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-10-19"
+    "rest_days": 4,
+    "last_match_date": "2026-10-23"
   },
   "威尼斯": {
     "elo": 1375.1,

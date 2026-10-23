@@ -2,7 +2,7 @@
   "n_leagues": 44,
   "n_matches": 1200,
   "external_added": 29,
-  "generated_at": "2026-10-23T20:10:43.685798",
+  "generated_at": "2026-10-23T20:46:58.730811",
   "leagues": [
     {
       "league": "西甲",
@@ -617,6 +617,23 @@
       "recent10_roi": 0.2
     },
     {
+      "league": "意大利杯",
+      "n": 3,
+      "hit_rate": 0.6667,
+      "avg_odds": 1.667,
+      "roi": 0.0933,
+      "avg_confidence": 0.191,
+      "verdict": "观望",
+      "recent_n": 3,
+      "recent_hits": 2,
+      "recent_hit_rate": 0.6667,
+      "recent_roi": 0.0933,
+      "recent10_n": 3,
+      "recent10_hits": 2,
+      "recent10_hit_rate": 0.6667,
+      "recent10_roi": 0.0933
+    },
+    {
       "league": "韩职",
       "n": 3,
       "hit_rate": 0.3333,
@@ -632,23 +649,6 @@
       "recent10_hits": 1,
       "recent10_hit_rate": 0.3333,
       "recent10_roi": -0.2633
-    },
-    {
-      "league": "意大利杯",
-      "n": 3,
-      "hit_rate": 0.3333,
-      "avg_odds": 1.667,
-      "roi": -0.4333,
-      "avg_confidence": 0.191,
-      "verdict": "谨慎",
-      "recent_n": 3,
-      "recent_hits": 1,
-      "recent_hit_rate": 0.3333,
-      "recent_roi": -0.4333,
-      "recent10_n": 3,
-      "recent10_hits": 1,
-      "recent10_hit_rate": 0.3333,
-      "recent10_roi": -0.4333
     },
     {
       "league": "澳超",
