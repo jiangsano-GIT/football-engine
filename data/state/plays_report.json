@@ -1,18 +1,18 @@
 {
-  "n_matches": 1942,
+  "n_matches": 1944,
   "hits": 111,
-  "hit_rate": 0.0572,
-  "roi": -0.11,
+  "hit_rate": 0.0571,
+  "roi": -0.111,
   "by_play": {
     "ttg": {
-      "n": 971,
+      "n": 972,
       "hit_rate": 0.0597,
-      "roi": -0.1359
+      "roi": -0.1368
     },
     "crs": {
-      "n": 971,
-      "hit_rate": 0.0546,
-      "roi": -0.0842
+      "n": 972,
+      "hit_rate": 0.0545,
+      "roi": -0.0851
     }
   },
   "rows": [
@@ -21177,6 +21177,28 @@
       "best_sel": "(0, 0)",
       "best_edge": 2.2319,
       "odds": 15.0,
+      "hit": false,
+      "pnl": -1.0
+    },
+    {
+      "date": "2026-10-22",
+      "match_id": "2026-10-22_周四003",
+      "play": "ttg",
+      "label": "总进球",
+      "best_sel": "1",
+      "best_edge": 0.0243,
+      "odds": 7.5,
+      "hit": false,
+      "pnl": -1.0
+    },
+    {
+      "date": "2026-10-22",
+      "match_id": "2026-10-22_周四003",
+      "play": "crs",
+      "label": "波胆",
+      "best_sel": "(0, 1)",
+      "best_edge": 1.2518,
+      "odds": 22.0,
       "hit": false,
       "pnl": -1.0
     },

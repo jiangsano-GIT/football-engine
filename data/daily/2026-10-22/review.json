@@ -1,20 +1,20 @@
 {
   "date": "2026-10-22",
-  "n_matches": 11,
-  "hit_rate": 0.5455,
+  "n_matches": 12,
+  "hit_rate": 0.5,
   "hits": 6,
   "source_brier": {
-    "model": 0.6606,
-    "market": 0.6603,
-    "djyy": 0.6693,
-    "final": 0.6136
+    "model": 0.691,
+    "market": 0.7175,
+    "djyy": 0.7022,
+    "final": 0.6642
   },
   "by_league": {
     "欧罗巴": {
-      "n": 9,
-      "hit_rate": 0.4444,
-      "wilson_lower": 0.1888,
-      "avg_brier": 0.6594
+      "n": 10,
+      "hit_rate": 0.4,
+      "wilson_lower": 0.1682,
+      "avg_brier": 0.7155
     },
     "欧协联": {
       "n": 2,
@@ -25,10 +25,10 @@
   },
   "by_confidence_tier": {
     "high": {
-      "n": 5,
-      "hit_rate": 0.4,
-      "wilson_lower": 0.1176,
-      "avg_brier": 0.6971
+      "n": 6,
+      "hit_rate": 0.3333,
+      "wilson_lower": 0.0968,
+      "avg_brier": 0.7844
     },
     "mid": {
       "n": 5,
@@ -45,10 +45,10 @@
   },
   "by_odds_band": {
     "L1 大热(<1.5)": {
-      "n": 4,
-      "hit_rate": 0.5,
-      "wilson_lower": 0.15,
-      "avg_brier": 0.6196
+      "n": 5,
+      "hit_rate": 0.4,
+      "wilson_lower": 0.1176,
+      "avg_brier": 0.7398
     },
     "L2 热(1.5-1.8)": {
       "n": 1,
@@ -93,16 +93,16 @@
     }
   },
   "market_signal_stats": {
-    "n": 11,
+    "n": 12,
     "hits": 5
   },
   "layered": {
-    "log_loss_final": 1.0135,
-    "rps_final": 0.2011,
-    "rps_market": 0.2148,
+    "log_loss_final": 1.0904,
+    "rps_final": 0.2338,
+    "rps_market": 0.2525,
     "goal_framework": {
-      "n": 11,
-      "hits": 3
+      "n": 12,
+      "hits": 4
     },
     "prob_bands": {
       "40-50%": {
@@ -114,8 +114,8 @@
         "hit_rate": 0.0
       },
       "60%+": {
-        "n": 4,
-        "hit_rate": 0.5
+        "n": 5,
+        "hit_rate": 0.4
       },
       "<40%": {
         "n": 1,
@@ -128,13 +128,13 @@
         "hit_rate": 0.5
       },
       "watch": {
-        "n": 3,
-        "hit_rate": 0.6667
+        "n": 4,
+        "hit_rate": 0.5
       }
     }
   },
   "biases": [],
   "total_pnl": 0.0,
-  "generated_at": "2026-10-23T00:58:38.384043",
-  "sha256": "40d7f905221089b893752dd2b107dbf7"
+  "generated_at": "2026-10-23T01:49:04.773888",
+  "sha256": "bc5ec692a029af332f4c4908545b6920"
 }

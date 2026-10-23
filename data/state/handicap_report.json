@@ -1,8 +1,8 @@
 {
-  "n_matches": 1054,
+  "n_matches": 1055,
   "hits": 380,
-  "hit_rate": 0.3605,
-  "roi": -0.1258,
+  "hit_rate": 0.3602,
+  "roi": -0.1267,
   "rows": [
     {
       "date": "2026-08-05",
@@ -12543,6 +12543,18 @@
       "hit": true,
       "odds": 2.24,
       "pnl": 1.24
+    },
+    {
+      "date": "2026-10-22",
+      "match_id": "2026-10-22_周四003",
+      "league": "欧罗巴",
+      "handicap": -1.0,
+      "best_sel": "draw",
+      "best_edge": -0.0862,
+      "actual": "away",
+      "hit": false,
+      "odds": 3.65,
+      "pnl": -1.0
     },
     {
       "date": "2026-10-22",
