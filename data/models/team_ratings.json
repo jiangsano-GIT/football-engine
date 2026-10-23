@@ -1800,13 +1800,13 @@
     "last_match_date": "2026-10-20"
   },
   "马里迪莫": {
-    "elo": 1413.3,
-    "attack": 0.6672,
-    "defense": 0.9905,
-    "form": -0.3497,
+    "elo": 1361.6,
+    "attack": 0.6021,
+    "defense": 1.0699,
+    "form": -0.5448,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-10"
+    "rest_days": 13,
+    "last_match_date": "2026-10-23"
   },
   "斯佩齐亚": {
     "elo": 1394.0,
@@ -1854,13 +1854,13 @@
     "last_match_date": null
   },
   "吉马良斯": {
-    "elo": 1429.8,
-    "attack": 0.5568,
-    "defense": 0.8204,
-    "form": -0.6478,
+    "elo": 1481.5,
+    "attack": 0.6784,
+    "defense": 0.7404,
+    "form": -0.1535,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-11"
+    "rest_days": 12,
+    "last_match_date": "2026-10-23"
   },
   "葡萄牙国民": {
     "elo": 1459.3,
