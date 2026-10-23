@@ -2421,13 +2421,13 @@
     "last_match_date": "2026-10-22"
   },
   "马拉加": {
-    "elo": 1310.8,
-    "attack": 0.3671,
-    "defense": 0.9055,
-    "form": -0.6351,
+    "elo": 1322.7,
+    "attack": 0.3665,
+    "defense": 0.8524,
+    "form": -0.4446,
     "injury": 0.0,
-    "rest_days": 9,
-    "last_match_date": "2026-10-18"
+    "rest_days": 5,
+    "last_match_date": "2026-10-23"
   },
   "格拉纳达": {
     "elo": 1374.8,
@@ -2574,13 +2574,13 @@
     "last_match_date": "2026-10-17"
   },
   "诺丁汉森林": {
-    "elo": 1718.3,
-    "attack": 0.6031,
-    "defense": 0.6607,
-    "form": -0.6202,
+    "elo": 1713.1,
+    "attack": 0.5795,
+    "defense": 0.6315,
+    "form": -0.4341,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-18"
+    "rest_days": 5,
+    "last_match_date": "2026-10-23"
   },
   "挪威": {
     "elo": 1900.2,
@@ -3393,13 +3393,13 @@
     "last_match_date": null
   },
   "米德尔斯堡": {
-    "elo": 1525.7,
-    "attack": 0.887,
-    "defense": 0.8259,
-    "form": 0.4029,
+    "elo": 1590.8,
+    "attack": 0.9764,
+    "defense": 0.7806,
+    "form": 0.582,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-13"
+    "rest_days": 10,
+    "last_match_date": "2026-10-23"
   },
   "罗达JC": {
     "elo": 1327.5,
@@ -3807,13 +3807,13 @@
     "last_match_date": null
   },
   "阿拉维斯": {
-    "elo": 1577.2,
-    "attack": 0.6587,
-    "defense": 0.7114,
-    "form": -0.5819,
+    "elo": 1565.3,
+    "attack": 0.6297,
+    "defense": 0.6772,
+    "form": -0.4073,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-10-18"
+    "rest_days": 5,
+    "last_match_date": "2026-10-23"
   },
   "布雷西亚": {
     "elo": 1364.5,
@@ -3969,13 +3969,13 @@
     "last_match_date": "2026-10-18"
   },
   "伊普斯维奇": {
-    "elo": 1536.6,
-    "attack": 0.7681,
-    "defense": 0.9106,
-    "form": -0.3289,
+    "elo": 1541.8,
+    "attack": 0.7284,
+    "defense": 0.857,
+    "form": -0.2302,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-17"
+    "rest_days": 6,
+    "last_match_date": "2026-10-23"
   },
   "欧塞尔": {
     "elo": 1575.7,
@@ -11196,13 +11196,13 @@
     "last_match_date": "2026-10-21"
   },
   "博尔顿": {
-    "elo": 1529.8,
-    "attack": 0.9615,
-    "defense": 0.8942,
-    "form": 0.237,
+    "elo": 1464.7,
+    "attack": 0.9029,
+    "defense": 0.9829,
+    "form": -0.1341,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-15"
+    "rest_days": 8,
+    "last_match_date": "2026-10-23"
   },
   "普雷斯顿": {
     "elo": 1393.0,
