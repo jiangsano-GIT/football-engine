@@ -1710,13 +1710,13 @@
     "last_match_date": "2026-10-21"
   },
   "波鸿": {
-    "elo": 1468.1,
-    "attack": 0.5553,
-    "defense": 0.9594,
-    "form": -0.0918,
+    "elo": 1470.5,
+    "attack": 0.5363,
+    "defense": 0.901,
+    "form": -0.0643,
     "injury": 0.0,
-    "rest_days": 5,
-    "last_match_date": "2026-08-28"
+    "rest_days": 14,
+    "last_match_date": "2026-10-23"
   },
   "斯图加特": {
     "elo": 1780.2,
@@ -2367,13 +2367,13 @@
     "last_match_date": null
   },
   "沃尔夫斯堡": {
-    "elo": 1586.1,
-    "attack": 0.9802,
-    "defense": 1.0524,
-    "form": 0.5131,
+    "elo": 1583.7,
+    "attack": 0.9198,
+    "defense": 0.985,
+    "form": 0.3592,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-09-18"
+    "last_match_date": "2026-10-23"
   },
   "佩斯卡拉": {
     "elo": 1317.8,

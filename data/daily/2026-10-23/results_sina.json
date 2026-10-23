@@ -23,5 +23,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3763914",
+    "match_no": "周五002",
+    "home_team": "波鸿",
+    "away_team": "沃尔夫斯堡",
+    "home_score": 1,
+    "away_score": 1,
+    "half_home_score": 0,
+    "half_away_score": 1,
+    "league": "德乙",
+    "match_time": "2026-10-24 00:30:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 3.4,
+    "odds_draw": 4.1,
+    "odds_away": 1.69,
+    "corner_home": "5",
+    "corner_away": "7",
+    "yellow_home": "0",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
