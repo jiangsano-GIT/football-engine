@@ -918,13 +918,13 @@
     "last_match_date": "2026-10-22"
   },
   "马尔默": {
-    "elo": 1411.0,
-    "attack": 0.3956,
-    "defense": 0.5321,
-    "form": 0.1736,
+    "elo": 1421.0,
+    "attack": 0.357,
+    "defense": 0.4802,
+    "form": 0.1215,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-12"
+    "rest_days": 11,
+    "last_match_date": "2026-10-23"
   },
   "诺维奇": {
     "elo": 1330.1,
@@ -4347,13 +4347,13 @@
     "last_match_date": "2026-08-21"
   },
   "埃尔夫斯堡": {
-    "elo": 1601.7,
-    "attack": 0.7635,
-    "defense": 0.592,
-    "form": 0.4139,
+    "elo": 1591.7,
+    "attack": 0.6891,
+    "defense": 0.5343,
+    "form": 0.2897,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-18"
+    "rest_days": 5,
+    "last_match_date": "2026-10-23"
   },
   "瓦萨": {
     "elo": 1336.6,

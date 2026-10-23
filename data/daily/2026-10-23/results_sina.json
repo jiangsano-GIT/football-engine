@@ -48,5 +48,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3634361",
+    "match_no": "周五003",
+    "home_team": "埃尔夫斯堡",
+    "away_team": "马尔默",
+    "home_score": 0,
+    "away_score": 0,
+    "half_home_score": 0,
+    "half_away_score": 0,
+    "league": "瑞典超",
+    "match_time": "2026-10-24 01:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.79,
+    "odds_draw": 3.62,
+    "odds_away": 3.4,
+    "corner_home": "8",
+    "corner_away": "2",
+    "yellow_home": "3",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
